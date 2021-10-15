@@ -1,6 +1,6 @@
 {
   "name": "tomcat-jsnote",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "bin": "dist/index.js",
   "publishConfig": {
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tomcat-jsnote/local-client": "^1.0.0"
+    "@tomcat-jsnote/local-client": "^2.0.0"
   },
   "devDependencies": {
-    "@tomcat-jsnote/local-api": "^1.0.0",
+    "@tomcat-jsnote/local-api": "^2.0.0",
     "@types/node": "^16.10.5",
     "commander": "^8.2.0",
     "esbuild": "0.8.26",
